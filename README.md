@@ -9,8 +9,8 @@
 ## Python
 | Project | Description |
 | --- | --- |
-| `Who's Tweeting? Trump or Trudeau?` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
-| `Word Frequency in Moby Dick` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+| `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 
 ## R
 | Project | Description |
