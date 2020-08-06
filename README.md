@@ -10,7 +10,6 @@
 | Project | Description |
 | --- | --- |
 | `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
-| `Visualizing COVID-19` | Visualize the rise of COVID-19 cases globally with ggplot2 |
 | `Extract Stock Sentiment from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight |
 
 ## R
